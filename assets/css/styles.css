@@ -1,0 +1,19 @@
+body {
+    margin: auto;
+    padding: 10px;
+    background-color: #ebebeb;
+    font-size: 14px;
+    font-family: Verdana;
+}
+
+footer {
+    top: 30px;
+    position: relative;
+}
+
+.contact {
+    top: 20px;
+    position: relative;
+    text-align: justify;
+}
+#map { height: 25rem; }
